@@ -1,8 +1,10 @@
-## NTLite GamerOS Configs for Windows 10 and 11
+## NTLite GamerOS Configs for Windows 10
 
-These config files were originally made by Txmmy @ <https://www.ntlite.com/community/index.php?threads/gameros-windows-10-11-diy-preset.2350/page-9#post-25128>
+Changes made to the original GamerOS Windows 10 NTLite config from Txmmy and ChrisTitusTech that have added support in Windows 10 for:
 
-This repository is here to maintain, share, and improve his excellent work that he put months into. 
-![1stimage](./images/ntlite-customizationintro.png)
+- Working Wi-Fi/auto connection
+- Working Bluetooth
+- Working Microsoft Store and app installation
+- On-Screen Keyboard (Tablet PC) - this had to be added due to an NTLite bug described here: <https://www.ntlite.com/community/index.php?threads/can%E2%80%99t-type-wifi-password.3094/>
 
-![2ndimage](./images/ntlite-finalcustom.png)
+Tested on Windows 10 Enterprise LTSC 2021.
