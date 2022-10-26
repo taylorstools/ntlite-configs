@@ -5,6 +5,7 @@ Changes made to the original GamerOS Windows 10 NTLite config from Txmmy and Chr
 - Working Wi-Fi/auto connection
 - Working Bluetooth
 - Working Microsoft Store and app installation
+- Working printing
 - BitLocker Drive Encryption
 - On-Screen Keyboard (Tablet PC) - this had to be added due to an NTLite bug described here: <https://www.ntlite.com/community/index.php?threads/can%E2%80%99t-type-wifi-password.3094/>
 
